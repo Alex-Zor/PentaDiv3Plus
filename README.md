@@ -114,7 +114,7 @@ A built-in settings menu is available at power-on or by **holding the Reset butt
 | **Joystick Type** | Kempston / Sega / Dendy / … |
 | **Swap FDD** | Swap drive A: ↔ B: |
 
-> All settings are stored in **non-volatile memory** (EEPROM).
+> All settings are stored in **non-volatile memory** (CMOS RTC).
 
 <p align="center">
   <img src="menu2.png" alt="ROM Bank Selection" width="600"/>
