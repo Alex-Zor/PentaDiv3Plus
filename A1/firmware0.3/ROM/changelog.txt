@@ -1,0 +1,11 @@
+ver 0.1p
+--first release
+
+ver 0.2p
+--fixed ESXDOS RAM clearing
+--add Divmmc 1024k mode
+
+ver 0.3 alpha
+--add DivIDE
+--add Monitor 0.1
+--add SPI Flash loader

@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# KiCad backups
+*.kicad_pcb-bak
+*.sch-bak
+*-backups/
+_autosave-*
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp
+*.tmp
+*.bak

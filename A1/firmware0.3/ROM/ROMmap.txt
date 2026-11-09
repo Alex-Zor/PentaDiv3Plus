@@ -1,0 +1,36 @@
+ROM map for PentaDivIII Plus menu v0.3p
+
+0	0x00000	PentaDiv menu
+1	0x04000	SOS 48
+2	0x08000	SOS 128
+3	0x0C000	SOS Pentagon
+4	0x10000	HE Gluk 0.19
+5	0x14000	Gluk 6.63
+6	0x18000	SOS with Fatall
+7	0x1C000	Fatall
+8	0x20000	SOS with Proteus
+9	0x24000	Proteus 2.3
+10	0x28000	TR-DOS Proteus
+11	0x2C000	TR-DOS 5.04TM
+12	0x30000	TR-DOS 6.11Q
+13	0x34000	ESXDOS MMC
+14	0x38000	MADROM
+15	0x3C000	Empty
+16	0x40000	Game
+17	0x44000	SE Basic
+18	0x48000	RomTest 1.02 bank0
+19	0x4C000	RomTest 1.02 bank1
+20	0x50000	RomTest 1.02 bank2
+21	0x54000	RomTest 1.02 bank3
+22	0x58000	ESXDOS IDE
+23	0x5C000	PentaDiv Monitor
+24	0x60000	User Bank 1 - service ROM or ESXDOS
+25	0x64000	User Bank 1 - TR-DOS
+26	0x68000	User Bank 1 - SOS 128
+27	0x6C000	User Bank 1 - SOS 48
+28	0x70000	User Bank 2 - service ROM or ESXDOS
+29	0x74000	User Bank 2 - TR-DOS
+30	0x78000	User Bank 2 - SOS 128
+31	0x7C000	User Bank 2 - SOS 48
+
+
